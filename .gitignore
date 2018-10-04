@@ -9,13 +9,4 @@ __pycache__/
 *.swp
 *.swo
 
-# CloudFormation template
-.packaged.yaml
-
-# VSCode
-.vscode/
-
-lambdas/model_scoring_logic.py
-lambdas/__model_scoring_logic.py
-lambdas/easy_install.py
-tests/extract.py
+*.aes256
